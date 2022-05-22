@@ -1,2 +1,2 @@
 # Blog
-Criando um Blog em angular para treinar aplicaões
+Criando um Blog em angular para treina e práticar os conceitos estudados.
